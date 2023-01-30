@@ -4,3 +4,4 @@
 2.  [Using multiple github accounts on same machine - YouTube](https://www.youtube.com/watch?v=vSeYsk4WYvg)
 3.  [How to start a TailwindCSS project with SCSS](https://dev.to/mdmostafizurrahaman/how-to-start-a-tailwindcss-project-with-scss-1g00)
 4.  [How to download PDF file in ReactJS ?](https://www.geeksforgeeks.org/how-to-download-pdf-file-in-reactjs/)
+5.  [Rating Stars with simple jQuery](https://codepen.io/depy/pen/vEWWdw)
