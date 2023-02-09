@@ -12,3 +12,4 @@
    - [Creating Dynamic HTML Elements and Event Handling with JavaScript](https://www.youtube.com/watch?v=aTlEjwpE6p4)
    - [How to get a class of dynamically added content via innerhtml](https://www.codeproject.com/Questions/5328430/How-to-get-a-class-of-dynamically-added-content-vi)
    - [How to get the elements class name from a dynamically created element?](https://stackoverflow.com/questions/53941723/how-to-get-the-elements-class-name-from-a-dynamically-created-element)
+8. [Want flexbox button to take up newline when the text inside is too long](https://stackoverflow.com/questions/57612785/want-flexbox-button-to-take-up-newline-when-the-text-inside-is-too-long)
